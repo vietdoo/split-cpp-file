@@ -1,4 +1,9 @@
 # Split-CPP-File-to-Header-source-main
 
 
-Biên dịch chương trình cùng folder chứa các file cpp cần tách.
+Tải file .exe và để chung folder với các file cpp cần tách. Sau đó run file .exe
+
+
+Ví dụ :
+Trong Folder chưa : Split_vietdo1.5.exe, baitap.cpp. 
+Sau khi run ta được : Split_vietdo1.5.exe, baitap_main.cpp, baitap_function.cpp, baitap.h
